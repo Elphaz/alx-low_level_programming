@@ -84,7 +84,7 @@ int get_digit(char c)
 		exit(98);
 	}
 
-	return (digit);
+	return (98);
 }
 
 /**
